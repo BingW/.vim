@@ -1,0 +1,2 @@
+supertab.vmb: call delete('/Users/bingwang/.vim/doc/supertab.txt')|call delete('/Users/bingwang/.vim/plugin/supertab.vim')
+markdown-1.2.2.vba: call delete('/Users/bingwang/.vim/ftdetect/markdown.vim')|call delete('/Users/bingwang/.vim/snippets/markdown.snippets')|call delete('/Users/bingwang/.vim/syntax/markdown.vim')

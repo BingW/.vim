@@ -1,3 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/bingwang/VimWork/lib'
+let g:netrw_dirhist_2='/Users/bingwang/zen/test'
+let g:netrw_dirhist_3='/Users/bingwang/zen/yeast_anno_pipe'
+let g:netrw_dirhist_4='/Users/bingwang/zen/yeast_anno_pipe/src'
+let g:netrw_dirhist_5='/Users/bingwang/zen/test/HMMtutorial'
+let g:netrw_dirhist_6='/Users/bingwang/zen/notes/archives'
+let g:netrw_dirhist_7='/Users/bingwang/zen'
